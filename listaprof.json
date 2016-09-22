@@ -1,0 +1,43 @@
+{
+            "Clinica Medico-Chirurgica degli Organi di Senso": [[
+                    "Pirodda (Audiologia)",
+                    "Pirodda (Otorino)",
+                    "Campos (Oculistica)",
+                    "Nucci (Odonto)"
+                ],[
+                    "Ferri (Audiologia)",
+                    "Ferri (Otorino)",
+                    "Schiavi (Oculistica)",
+                    "Montebugnoli (Odonto)"
+                ]],
+            "Medicina Legale - Pedagogia Generale e Sociale" : [[
+                    "Pelotti (Legale)",
+                    "Taroni (Legale)",
+                    "Fabbri (Pedagogia)"
+                   ]],
+            "Medicina del Lavoro" : [[
+                    "Bonfiglioli",
+                    "Violante"
+                ],[
+                    "Mattioli"
+                ]],
+            "Psichiatria e Psicologia Clinica": [[
+                    "De Ronchi (Psichiatria)",
+                    "Rossi (Psicologia Clinica)"
+                ],[
+                    "Ercolani (Psicologia Clinica)",
+                    "Trombini (Psicologia Clinica)",
+                    "Berardi (Psichiatria)"
+                ]],
+            "Oncologia Medica": [[
+                    "Biasco (Oncologia)",
+                    "Melotti (Anestesiologia)",
+                    "Demozzi (Pedagogia Oncologica)",
+                    "Morganti (Radioterapia)"
+                ],[
+                    "Brandi (Oncologia)",
+                    "Demozzi (Pedagogia Oncologica)",
+                    "Cammelli (Radioterapia)",
+                    "Samolsky (Anestesiologia)"               
+                ]]
+        }
