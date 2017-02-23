@@ -40,4 +40,51 @@
                     "Cammelli (Radioterapia)",
                     "Samolsky (Anestesiologia)"               
                 ]]
+            
+            "Diagnostica per Immagini e Radioterapia": [[
+                    "Zannoli (Radioprotezione)",
+                    "Zompatori (Radiologia)",
+                    "Morganti (Radioterapia)",
+                    "Ambrosini (Medicina Nucleare)"
+                ],[
+                    "Zannoli (Radioprotezione)",
+                    "Battista (Radiologia)",
+                    "Fanti (Medicina Nucleare)",
+                    "Cammelli (Radioterapia)"               
+                ]]
+            "Ginecologia e Ostetricia": [[
+                    "Pilu",
+                    "Serrachioli"
+                ],[
+                    "Rizzo",
+                    "Porcu"             
+                ]]
+            "Medicina Interna, dell'Invecchiamento e di Comunità": [[
+                    "Bianchi (Clinica medica dell'invecchiamento)",
+                    "Piscaglia (Clinica medica dell'invecchiamento)",
+                    "Nardo (Chirurgia generale 2)",
+                    "Berti (Medicina fisica e riabilitativa 2)"
+                ],[
+                    "Muscari (Clinica medica dell'invecchiamento)",
+                    "Caraceni (Clinica medica dell'invecchiamento)",
+                    "Nardo (Chirurgia generale 2)",
+                    "Berti (Medicina fisica e riabilitativa 2)"              
+                ]]
+            "Pediatria Generale e Specialistica - Genetica Medica": [[
+                    "Faldella (Pediatria Generale e Specialistica)",
+                    "Lanari (Pediatria Generale e Specialistica)",
+                    "Cassio (Pediatria Generale e Specialistica)",
+                    "Corvaglia (Pediatria Generale e Specialistica)",
+                    "Turchetti (Genetica Medica)",
+                    "Lima (Chirurgia)",
+                    "Franzoni (Neuropsichiatria Infantile)"
+                ],[
+                    "Cocchi (Pediatria Generale e Specialistica)",
+                    "Pession (Pediatria Generale e Specialistica)",
+                    "Mazzanti (Pediatria Generale e Specialistica)",
+                    "Ricci (Pediatria Generale e Specialistica)",
+                    "Seri (Genetica Medica)",
+                    "Domini (Chirurgia)",
+                    "Parmeggiani (Neuropsichiatria Infantile)"             
+                ]]
         }
