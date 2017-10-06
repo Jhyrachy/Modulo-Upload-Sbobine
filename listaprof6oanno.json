@@ -1,0 +1,33 @@
+{
+            "Clinica Chirurgica": [[
+                    "Giorgio Ercolani",
+                    "Francesco Minni",
+                    "Riccardo Casadei"
+                ],[
+                    "Gilberto Poggioli",
+                    "Antonio Daniele Pinna",
+                    "Mario Tuffarelli"
+                ]],
+            "Clinica Medica e Terapia Medica" : [[
+                    "Marco Zoli",
+                    "Mauro Bernardi",
+                    "Pietro Andreone",
+                    "Franco Trevisani"
+                ],[
+                    "Luigi Bolondi",
+                    "Vincenzo Stanghellini",
+                    "Marco Lenzi"
+                ]],
+            "Emergenze Medico-Chirurgiche" : [[
+                    "Loris Pironi (Medicina Interna)",
+                    "Stefano Faenza (Anestesiologia)",
+                    "Boaz Samolsky (Anestesiologia)",
+                    "Claudio Marchetti (Chirurgica Maxillofacciale)",
+                    "Antonio Daniele Pinna (Chirurgia Generale)"
+                ],[
+                    "Pier Luigi Malini (Medicina Interna)",
+                    "Rita Maria Melotti (Anestesiologia)",
+                    "Claudio Marchetti (Chirurgica Maxillofacciale)",
+                    "Riccardo Casadei (Chirurgia Generale)"
+                ]]
+        }
