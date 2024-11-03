@@ -10,7 +10,7 @@ function openInNewTab(url) {
 }
 
 function uploadFiles(form) {
-  const rootFolder = <YOUR FOLDER ID>;
+  const rootFolder = <YOUR_FOLDER_ID>;
 
   var basefolder = DriveApp.getFolderById(rootFolder);
   var materiafolder = basefolder.getFoldersByName( form.materia );
